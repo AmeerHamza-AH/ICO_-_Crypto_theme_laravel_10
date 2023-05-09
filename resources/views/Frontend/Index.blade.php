@@ -5,16 +5,16 @@
         <!-- banner-area -->
         <section class="banner-area banner-bg">
             <div class="banner-shape-wrap">
-                <img src="assets/img/banner/banner_shape01.png" alt="" class="img-one">
-                <img src="assets/img/banner/banner_shape02.png" alt="" class="img-two">
-                <img src="assets/img/banner/banner_shape03.png" alt="" class="img-three">
+                <img src="/assets/img/banner/banner_shape01.png" alt="" class="img-one">
+                <img src="/assets/img/banner/banner_shape02.png" alt="" class="img-two">
+                <img src="/assets/img/banner/banner_shape03.png" alt="" class="img-three">
             </div>
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
                         <div class="banner-content text-center">
                             <img src="assets/img/icon/fire.png" alt="">
-                            <h2 class="title">Join Future of Algorithmic <span>Crypto</span> Trading Strategies</h2>
+                            <h2 class="title">Join Future of Developing world <span>Programmer's Beats</span> Code Strategies</h2>
                         </div>
                         <div class="banner-progress-wrap">
                             <ul>
@@ -32,7 +32,7 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-10">
                         <div class="banner-countdown-wrap text-center">
-                            <h2 class="title">ICO Will Start In..</h2>
+                            <h2 class="title">Programmer's Beats Will Start In..</h2>
                             <div class="coming-time" data-countdown="2023/1/29"></div>
                         </div>
                     </div>
@@ -539,7 +539,7 @@
                     <div class="col-lg-8">
                         <div class="section-title text-center mb-70">
                             <span class="sub-title">Contact</span>
-                            <h2 class="title"><span>Contact</span> ICO Crypto</h2>
+                            <h2 class="title"><span>Contact</span> Programmer's Beats</h2>
                         </div>
                     </div>
                 </div>
@@ -552,7 +552,7 @@
                                     <i class="fas fa-envelope"></i>
                                 </div>
                                 <div class="content">
-                                    <p>company@gmail.com <br> infoweb@gmail.com</p>
+                                    <p>company@gmail.com <br> programmersbeats@gmail.com</p>
                                 </div>
                             </div>
                         </div>
@@ -563,7 +563,7 @@
                                     <i class="fas fa-phone"></i>
                                 </div>
                                 <div class="content">
-                                    <p>+84 0977425031<br> +998 765 775 34</p>
+                                    <p>+44 0977425031<br> +998 765 775 34</p>
                                 </div>
                             </div>
                         </div>
@@ -574,7 +574,7 @@
                                     <i class="fas fa-map-marker-alt"></i>
                                 </div>
                                 <div class="content">
-                                    <p>State/province/area: <br>Georgia 198</p>
+                                    <p>State/province/area: <br>Pakistan</p>
                                 </div>
                             </div>
                         </div>
@@ -605,6 +605,5 @@
             </div>
         </section>
         <!-- contact-area-end -->
-
     </main>
 @endsection

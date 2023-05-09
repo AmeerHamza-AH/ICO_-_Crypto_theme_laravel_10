@@ -67,7 +67,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="copyright-text">
-                            <p>Copyright &copy; 2022. All Rights Reserved Bigtech</p>
+                            <p>Copyright &copy; 2023. All Rights Reserved Programmer's Beats</p>
                         </div>
                     </div>
                     <div class="col-lg-6 d-none d-sm-block">
