@@ -64,7 +64,7 @@
                         <div class="about-content-two wow fadeInRight" data-wow-delay=".2s">
                             <div class="section-title section-title-two mb-15">
                                 <span class="sub-title">ABOUT Crypto ICO</span>
-                                <h2 class="title">Bigtech Theme is the best for your ICO</h2>
+                                <h2 class="title">Programmer's Beats Theme is the best for your ICO</h2>
                             </div>
                             <p>The World’s 1st ICO Platform That Offers Rewards and The platform helps investors to make
                                 easy</p>
@@ -94,7 +94,7 @@
                     <div class="col-lg-6">
                         <div class="section-title text-center mb-70">
                             <span class="sub-title">why Choose us</span>
-                            <h2 class="title">Why you choose our bigtech Token</h2>
+                            <h2 class="title">Why you choose our Programmer's Beats Token</h2>
                         </div>
                     </div>
                 </div>
@@ -199,7 +199,7 @@
                     <div class="col-xl-6">
                         <div class="section-title section-title-two text-center mb-65">
                             <span class="sub-title">roadmap</span>
-                            <h2 class="title">Bigtech Strategy and <br> Project Plan</h2>
+                            <h2 class="title">Programmer's Beats Strategy and <br> Project Plan</h2>
                         </div>
                     </div>
                 </div>
