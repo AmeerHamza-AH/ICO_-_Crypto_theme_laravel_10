@@ -22,7 +22,7 @@
                                     <li><a href="#about" class="section-link">About us</a></li>
                                     <li><a href="#sales" class="section-link">Sales</a></li>
                                     <li><a href="#roadmap" class="section-link">Roadmap</a></li>
-                                    <li class="menu-item-has-children"><a href="blog.html">Blog</a>
+                                    <li class="menu-item-has-children"><a href="/blogs">Blog</a>
                                         <ul class="sub-menu">
                                             <li><a href="/blogs">Our Blog</a></li>
                                             <li><a href="/blog-details">Blog Details</a></li>
@@ -41,7 +41,7 @@
                                             <li><a href="#">CIN</a></li>
                                         </ul>
                                     </li>
-                                    <li class="header-btn"><a href="#" class="btn">Buy Now</a></li>
+                                    <li class="header-btn"><a href="#" class="btn">Login</a></li>
                                 </ul>
                             </div>
                         </nav>

@@ -106,7 +106,7 @@
                     <div class="col-xl-6">
                         <div class="section-title text-center mb-50">
                             <span class="sub-title">why Choose us</span>
-                            <h2 class="title">Why choose our bigtech <span>Token</span></h2>
+                            <h2 class="title">Why choose our Programmer's Beats <span>Token</span></h2>
                         </div>
                     </div>
                 </div>
@@ -260,7 +260,7 @@
                         <div class="col-xl-5 col-lg-8">
                             <div class="section-title text-center mb-60">
                                 <span class="sub-title">OUr Roadmap</span>
-                                <h2 class="title">Bigtech Strategy and <br> Project <span>Plan</span></h2>
+                                <h2 class="title">Programmer's Beats Strategy and <br> Project <span>Plan</span></h2>
                             </div>
                         </div>
                     </div>
@@ -269,7 +269,7 @@
                             <div class="bt-roadmap_x">
                                 <div class="bt-roadmap-wrap">
                                     <div class="bt-roadmap-item">
-                                        <span class="roadmap-title">Mid of Q4 2021</span>
+                                        <span class="roadmap-title">Start of 2021</span>
                                         <div class="roadmap-content">
                                             <span class="dot"></span>
                                             <h4 class="title">Concept</h4>
@@ -279,7 +279,7 @@
                                         </div>
                                     </div>
                                     <div class="bt-roadmap-item">
-                                        <span class="roadmap-title">Mid of Q4 2021</span>
+                                        <span class="roadmap-title">Mid of 2021</span>
                                         <div class="roadmap-content">
                                             <span class="dot"></span>
                                             <h4 class="title">Research</h4>
@@ -289,7 +289,7 @@
                                         </div>
                                     </div>
                                     <div class="bt-roadmap-item">
-                                        <span class="roadmap-title">Mid of Q4 2021</span>
+                                        <span class="roadmap-title">End of  2021</span>
                                         <div class="roadmap-content">
                                             <span class="dot"></span>
                                             <h4 class="title">App beta test</h4>
@@ -299,7 +299,7 @@
                                         </div>
                                     </div>
                                     <div class="bt-roadmap-item">
-                                        <span class="roadmap-title">Mid of Q4 2021</span>
+                                        <span class="roadmap-title">Start of 2022</span>
                                         <div class="roadmap-content">
                                             <span class="dot"></span>
                                             <h4 class="title">Token Test</h4>
@@ -309,7 +309,7 @@
                                         </div>
                                     </div>
                                     <div class="bt-roadmap-item">
-                                        <span class="roadmap-title">Mid of Q4 2021</span>
+                                        <span class="roadmap-title">Mid of 2022</span>
                                         <div class="roadmap-content">
                                             <span class="dot"></span>
                                             <h4 class="title">Alpha test</h4>
@@ -319,7 +319,7 @@
                                         </div>
                                     </div>
                                     <div class="bt-roadmap-item">
-                                        <span class="roadmap-title">Mid of Q4 2021</span>
+                                        <span class="roadmap-title">End of 2022</span>
                                         <div class="roadmap-content">
                                             <span class="dot"></span>
                                             <h4 class="title">Benefits</h4>
@@ -329,7 +329,7 @@
                                         </div>
                                     </div>
                                     <div class="bt-roadmap-item">
-                                        <span class="roadmap-title">Mid of Q4 2021</span>
+                                        <span class="roadmap-title">Start of 2023</span>
                                         <div class="roadmap-content">
                                             <span class="dot"></span>
                                             <h4 class="title">Operational</h4>
@@ -345,7 +345,6 @@
             </section>
             <!-- roadMap-area-end -->
 
-
             <!-- document-area -->
             <section class="document-area pt-60">
                 <div class="container">
@@ -359,7 +358,7 @@
                             <div class="document-content mt-50 wow fadeInRight" data-wow-delay=".2s">
                                 <div class="section-title mb-35">
                                     <span class="sub-title">Whitepaper</span>
-                                    <h2 class="title">Read Bigtech <span>Documents</span></h2>
+                                    <h2 class="title">Read <span>Documents</span></h2>
                                 </div>
                                 <ul class="document-list">
                                     <li>White Paper</li>
@@ -374,8 +373,6 @@
                 </div>
             </section>
             <!-- document-area-end -->
-
-
         </div>
         <!-- area-bg-end -->
 
